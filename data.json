@@ -1,0 +1,14 @@
+{
+  "previewFolder": "canvas-previews",
+  "hidePreviewFolderInFileExplorer": true,
+  "autoExcludePreviewFolder": true,
+  "maxCanvasEmbedDepth": 8,
+  "format": "png",
+  "quality": 0.9,
+  "maxDimension": 1800,
+  "pixelRatio": 1.4,
+  "debounceMs": 500,
+  "renderInNotes": true,
+  "renderInCanvas": true,
+  "regenerateOnStartup": true
+}

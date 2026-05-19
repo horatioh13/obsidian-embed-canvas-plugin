@@ -1,0 +1,9 @@
+{
+  "id": "embed-canvas",
+  "name": "Embed Canvas",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.4",
+  "description": "Generate and auto-update image previews for canvas embeds in notes and other canvases.",
+  "author": "Horatio",
+  "isDesktopOnly": true
+}
